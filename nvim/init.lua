@@ -12,4 +12,4 @@ require("cadet.core.macros")
 
 -- Lazy Plugin Manager
 require("cadet.lazy")
-
+vim.cmd("colorscheme terafox")
